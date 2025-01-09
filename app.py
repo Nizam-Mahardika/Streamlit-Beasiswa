@@ -11,7 +11,7 @@ st.title("Prediksi Status Beasiswa")
 st.write("Aplikasi ini memprediksi status penerimaan beasiswa berdasarkan data yang dimasukkan.")
 
 # Upload file
-uploaded_file = st.file_uploader("Unggah file Excel berisi data beasiswa", type="xlsx")
+uploaded_file = "DataBeasiswa.xlsx"
 
 if uploaded_file is not None:
     # Membaca file Excel
