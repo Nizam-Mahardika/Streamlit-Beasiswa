@@ -5,3 +5,4 @@ pytz==2024.2
 streamlit
 scikit-learn
 matplotlib
+openpyxl
