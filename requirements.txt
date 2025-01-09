@@ -4,4 +4,4 @@ pip==24.3.1
 pytz==2024.2
 streamlit
 scikit-learn
-matplotlib.pyplot
+matplotlib
